@@ -1,6 +1,6 @@
 [project]
 name = "baam-api"
-version = "0.1.0"
+version = "0.2.0"
 description = "api"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
